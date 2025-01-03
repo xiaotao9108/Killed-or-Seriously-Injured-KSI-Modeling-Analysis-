@@ -84,7 +84,7 @@ Objective: predict the probability of getting severe car accident.
 
 1. Understand raw data
    * Import CSV files into SAS
-   * Investigate data with PROC FREQ, PROC UNIVARIATE, PROC MEANS
+   * Validate data with PROC FREQ, PROC UNIVARIATE, PROC MEANS
 2. Data Cleansing
    * Select those car accident records only from 2011 to 2015
    * Delete records with "-1"
